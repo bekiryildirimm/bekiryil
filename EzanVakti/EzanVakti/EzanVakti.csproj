@@ -1,0 +1,80 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows10.0.22000.0</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWPF>true</UseWPF>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+    <SupportedOSPlatformVersion>10.0.22000.0</SupportedOSPlatformVersion>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="aksamImg.jpg" />
+    <None Remove="aksamOrange.png" />
+    <None Remove="aksamWhite.png" />
+    <None Remove="AllahuEkberBildirimSesi.mp3" />
+    <None Remove="AllahuEkberBildirimSesi1.wav" />
+    <None Remove="backgroundColor.jpg" />
+    <None Remove="CikisYap.png" />
+    <None Remove="gunesBeyaz.png" />
+    <None Remove="gunesImg.jpg" />
+    <None Remove="gunesturuncu.png" />
+    <None Remove="icons8-location-50.png" />
+    <None Remove="icons8-location-update-50.png" />
+    <None Remove="icons8-menu-rounded-50.png" />
+    <None Remove="ikindiImg.jpg" />
+    <None Remove="ikindiOrange.png" />
+    <None Remove="ikindiWhite.png" />
+    <None Remove="imsakImg.jpg" />
+    <None Remove="imsakOrange.png" />
+    <None Remove="imsakWhite.png" />
+    <None Remove="menuIcon.png" />
+    <None Remove="no-wifi.png" />
+    <None Remove="ogleImg.jpg" />
+    <None Remove="ogleOrange3.png" />
+    <None Remove="ogleWhite.png" />
+    <None Remove="oncekiSayfa.png" />
+    <None Remove="yatsiImg.jpg" />
+    <None Remove="yatsiOrange.png" />
+    <None Remove="yatsiWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="7.1.3" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+    <PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers" Version="0.4.355802">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="aksamImg.jpg" />
+    <Resource Include="aksamOrange.png" />
+    <Resource Include="aksamWhite.png" />
+    <Content Include="AllahuEkberBildirimSesi.mp3" />
+    <Resource Include="AllahuEkberBildirimSesi1.wav" />
+    <Resource Include="backgroundColor.jpg" />
+    <Resource Include="CikisYap.png" />
+    <Resource Include="gunesBeyaz.png" />
+    <Resource Include="gunesImg.jpg" />
+    <Resource Include="gunesturuncu.png" />
+    <Resource Include="icons8-location-50.png" />
+    <Resource Include="icons8-location-update-50.png" />
+    <Resource Include="icons8-menu-rounded-50.png" />
+    <Resource Include="ikindiImg.jpg" />
+    <Resource Include="ikindiOrange.png" />
+    <Resource Include="ikindiWhite.png" />
+    <Resource Include="imsakImg.jpg" />
+    <Resource Include="imsakOrange.png" />
+    <Resource Include="imsakWhite.png" />
+    <Resource Include="menuIcon.png" />
+    <Resource Include="no-wifi.png" />
+    <Resource Include="ogleImg.jpg" />
+    <Resource Include="ogleOrange3.png" />
+    <Resource Include="ogleWhite.png" />
+    <Resource Include="oncekiSayfa.png" />
+    <Resource Include="yatsiImg.jpg" />
+    <Resource Include="yatsiOrange.png" />
+    <Resource Include="yatsiWhite.png" />
+  </ItemGroup>
+</Project>

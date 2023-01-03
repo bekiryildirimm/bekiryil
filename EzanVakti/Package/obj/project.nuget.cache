@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZfisNr5bY3K/J/LQlUAFih7xOIsyPRSvkSuH03YQUNYjhSdq7XmBK5YNYS/DKWUGZBjxZenlrHxupz/Kmaw5Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\manas\\Desktop\\ezanvakti github1\\EzanVakti\\Package\\Package.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.1\\microsoft.windows.sdk.buildtools.10.0.22621.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EzanVakti is not compatible with uap10.0.22000 (UAP,Version=v10.0.22000). Project EzanVakti supports: net6.0-windows10.0.22621 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "EzanVakti",
+      "targetGraphs": [
+        "UAP,Version=v10.0.22000"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EzanVakti is not compatible with uap10.0.22000 (UAP,Version=v10.0.22000) / win10-arm. Project EzanVakti supports: net6.0-windows10.0.22621 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "EzanVakti",
+      "targetGraphs": [
+        "UAP,Version=v10.0.22000/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EzanVakti is not compatible with uap10.0.22000 (UAP,Version=v10.0.22000) / win10-arm-aot. Project EzanVakti supports: net6.0-windows10.0.22621 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "EzanVakti",
+      "targetGraphs": [
+        "UAP,Version=v10.0.22000/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EzanVakti is not compatible with uap10.0.22000 (UAP,Version=v10.0.22000) / win10-arm64-aot. Project EzanVakti supports: net6.0-windows10.0.22621 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "EzanVakti",
+      "targetGraphs": [
+        "UAP,Version=v10.0.22000/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EzanVakti is not compatible with uap10.0.22000 (UAP,Version=v10.0.22000) / win10-x64. Project EzanVakti supports: net6.0-windows10.0.22621 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "EzanVakti",
+      "targetGraphs": [
+        "UAP,Version=v10.0.22000/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EzanVakti is not compatible with uap10.0.22000 (UAP,Version=v10.0.22000) / win10-x64-aot. Project EzanVakti supports: net6.0-windows10.0.22621 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "EzanVakti",
+      "targetGraphs": [
+        "UAP,Version=v10.0.22000/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EzanVakti is not compatible with uap10.0.22000 (UAP,Version=v10.0.22000) / win10-x86. Project EzanVakti supports: net6.0-windows10.0.22621 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "EzanVakti",
+      "targetGraphs": [
+        "UAP,Version=v10.0.22000/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EzanVakti is not compatible with uap10.0.22000 (UAP,Version=v10.0.22000) / win10-x86-aot. Project EzanVakti supports: net6.0-windows10.0.22621 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "EzanVakti",
+      "targetGraphs": [
+        "UAP,Version=v10.0.22000/win10-x86-aot"
+      ]
+    }
+  ]
+}

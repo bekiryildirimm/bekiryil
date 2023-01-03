@@ -1,0 +1,270 @@
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.exe
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.dll.config
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.deps.json
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.runtimeconfig.json
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.pdb
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.CodeDom.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ComponentModel.Composition.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Data.OleDb.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Data.SqlClient.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Diagnostics.EventLog.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.DirectoryServices.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.DirectoryServices.Protocols.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Drawing.Common.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Formats.Asn1.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.IO.Packaging.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.IO.Ports.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Management.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Private.ServiceModel.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Reflection.Context.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Runtime.Caching.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Security.Cryptography.Xml.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Security.Permissions.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Duplex.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Http.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.NetTcp.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Primitives.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Security.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Syndication.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceProcess.ServiceController.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Speech.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Text.Encoding.CodePages.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Threading.AccessControl.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Web.Services.Description.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Windows.Extensions.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\cs\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\de\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\es\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\fr\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\it\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ja\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ko\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\pl\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ru\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\tr\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win-x64\native\sni.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win-x86\native\sni.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\WinRT.Runtime.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.csproj.AssemblyReference.cache
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\MainWindow.g.cs
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\Menu.g.cs
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\Window1.g.cs
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\App.g.cs
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti_Content.g.cs
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti_MarkupCompile.cache
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti_MarkupCompile.lref
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\MainWindow.baml
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\Menu.baml
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\Window1.baml
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.g.resources
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.Properties.Resources.resources
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.csproj.GenerateResource.cache
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.csproj.CoreCompileInputs.cache
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.csproj.CopyComplete
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\refint\EzanVakti.dll
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.pdb
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.genruntimeconfig.cache
+C:\Users\manas\Desktop\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\ref\EzanVakti.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.exe
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.dll.config
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.deps.json
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.runtimeconfig.json
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\EzanVakti.pdb
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.CodeDom.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ComponentModel.Composition.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Data.OleDb.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Data.SqlClient.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Diagnostics.EventLog.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.DirectoryServices.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.DirectoryServices.Protocols.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Drawing.Common.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Formats.Asn1.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.IO.Packaging.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.IO.Ports.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Management.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Private.ServiceModel.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Reflection.Context.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Runtime.Caching.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Security.Cryptography.Xml.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Security.Permissions.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Duplex.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Http.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.NetTcp.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Primitives.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Security.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceModel.Syndication.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.ServiceProcess.ServiceController.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Speech.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Text.Encoding.CodePages.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Threading.AccessControl.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Web.Services.Description.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\System.Windows.Extensions.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\cs\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\de\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\es\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\fr\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\it\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ja\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ko\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\pl\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\ru\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\tr\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win-x64\native\sni.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win-x86\native\sni.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\bin\Debug\net6.0-windows10.0.22000.0\WinRT.Runtime.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.csproj.AssemblyReference.cache
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\MainWindow.g.cs
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\Menu.g.cs
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\Window1.g.cs
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\App.g.cs
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti_Content.g.cs
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti_MarkupCompile.cache
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti_MarkupCompile.lref
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\MainWindow.baml
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\Menu.baml
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\Window1.baml
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.g.resources
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.Properties.Resources.resources
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.csproj.GenerateResource.cache
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.csproj.CoreCompileInputs.cache
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.csproj.CopyComplete
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\refint\EzanVakti.dll
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.pdb
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\EzanVakti.genruntimeconfig.cache
+C:\Users\manas\Desktop\Ezan VAkti uygulaması dosyaları\ezanvakti github1\EzanVakti\EzanVakti\obj\Debug\net6.0-windows10.0.22000.0\ref\EzanVakti.dll
