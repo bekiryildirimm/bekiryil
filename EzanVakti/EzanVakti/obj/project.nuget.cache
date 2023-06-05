@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vbn2Pt0jAaIBfbWEd/ZeI4UlxIM4cPGLHYqCxgwF2WbSa5q4ccF0NP31fRzmg31FQhmChLwuVZ9EdwXR9M4Fow==",
+  "dgSpecHash": "lbzrsBL0nHjpy3SSAnkDvZcoI0Hn0BAcGhW1Rg8hIrK04lhIrIvmz+Og+trzqEZ5w2OlfXTEUYqqbPfOPNtIYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\manas\\source\\repos\\bekiryil\\EzanVakti\\EzanVakti\\EzanVakti.csproj",
+  "projectFilePath": "C:\\Users\\manas\\Source\\Repos\\bekiryil(1)\\EzanVakti\\EzanVakti\\EzanVakti.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\manas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -68,7 +68,7 @@
     "C:\\Users\\manas\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\manas\\.nuget\\packages\\system.web.services.description\\4.9.0\\system.web.services.description.4.9.0.nupkg.sha512",
     "C:\\Users\\manas\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
-    "C:\\Users\\manas\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.27\\microsoft.windows.sdk.net.ref.10.0.22000.27.nupkg.sha512"
+    "C:\\Users\\manas\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.28\\microsoft.windows.sdk.net.ref.10.0.22000.28.nupkg.sha512"
   ],
   "logs": []
 }

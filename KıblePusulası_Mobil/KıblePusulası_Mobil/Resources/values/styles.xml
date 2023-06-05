@@ -1,0 +1,136 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+	<style name="SplashScreen" parent="@style/AppTheme">
+		<item name="android:windowBackground">@drawable/splash_screen</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">false</item>
+	</style>
+	<style name="CustomAlertDialogLineStyle">
+		<item name="android:background">@color/clrStandartText</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">0.5dip</item>
+		<item name="android:alpha">0.5</item>
+	</style>
+	<style name="MenuButtonRlytStyle" parent="@style/AppTheme">
+		<item name="android:layout_gravity">end|center|top</item>
+		<item name="android:layout_width">48.0dip</item>
+		<item name="android:layout_height">48.0dip</item>
+		<item name="android:layout_marginTop">16.0dip</item>
+		<item name="android:layout_marginStart">16.0dip</item>
+		<item name="android:layout_marginEnd">16.0dip</item>
+	</style>
+
+	<style name="MenuLlytButtonStyle" parent="@style/AppTheme">
+		<item name="android:gravity">center_vertical</item>
+		<item name="android:orientation">horizontal</item>
+		<item name="android:background">?selectableItemBackground</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">56.0dip</item>
+		<item name="android:onClick">onMenuClick</item>
+		<item name="android:paddingStart">16.0dip</item>
+		<item name="android:paddingEnd">16.0dip</item>
+	</style>
+	<style name="MenuRlytIconStyle" parent="@style/AppTheme">
+		<item name="android:padding">8.0dip</item>
+		<item name="android:layout_width">40.0dip</item>
+		<item name="android:layout_height">40.0dip</item>
+	</style>
+	<style name="MenuTvTitleStyle" parent="@style/AppTheme">
+		<item name="android:textSize">14.0sp</item>
+		<item name="android:textColor">@color/clrMenuText</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_marginStart">16.0dip</item>
+	</style>
+	<style name="MenuButtonImageStyle" parent="@style/AppTheme">
+		<item name="android:background">?selectableItemBackgroundBorderless</item>
+		<item name="android:scaleType">center</item>
+	</style>
+	<style name="AppTheme.CustomTheme" parent="Theme.AppCompat.NoActionBar">
+		<item name="android:background">@android:color/transparent</item>
+		
+		<item name="android:windowNoTitle">true</item>
+		
+		<item name="android:windowBackground">@color/saydam</item>
+	
+		<item name="android:colorBackgroundCacheHint">@null</item>
+	
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="colorPrimaryDark">#00000000</item>
+		
+		<item name="android:windowAnimationStyle">@android:style/Animation</item>
+	</style>
+	<style name="BottomSheetFragmentStyle" parent="@style/Theme.MaterialComponents.Light.BottomSheetDialog">
+		<item name="android:backgroundDimAmount">0.3</item>
+		<item name="behavior_peekHeight">500.0dip</item>
+		<item name="bottomSheetStyle">@style/BottomSheetWhiteBg</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	</style>
+	<style name="BottomSheetWhiteBg2" parent="@style/Theme.MaterialComponents.Light.BottomSheetDialog">
+		<item name="android:background">@drawable/circle</item>
+	</style>
+	<style name="BottomSheetWhiteBg" parent="@style/Theme.MaterialComponents.Light.BottomSheetDialog">
+		<item name="android:background">@drawable/bg_bottomsheet_white</item>
+	</style>
+	<style name="Theme.MaterialComponents.Light.Dialog" parent="@style/Base.Theme.MaterialComponents.Light.Dialog" />
+	<style name="Base.Theme.MaterialComponents.Light.Dialog" parent="@style/Base.V21.Theme.MaterialComponents.Light.Dialog" />
+	<style name="Base.V21.Theme.MaterialComponents.Light.Dialog" parent="@style/Base.V14.Theme.MaterialComponents.Light.Dialog">
+		<item name="android:alertDialogTheme">@style/ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework</item>
+	</style>
+	<style name="Theme.MaterialComponents.Light.BottomSheetDialog" parent="@style/Theme.MaterialComponents.Light.Dialog">
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowAnimationStyle">@style/Animation.MaterialComponents.BottomSheetDialog</item>
+		<item name="bottomSheetStyle">@style/Widget.MaterialComponents.BottomSheet.Modal</item>
+	</style>
+	<style name="Animation.MaterialComponents.BottomSheetDialog" parent="@style/Animation.AppCompat.Dialog">
+		<item name="android:windowEnterAnimation">@anim/mtrl_bottom_sheet_slide_in</item>
+		<item name="android:windowExitAnimation">@anim/mtrl_bottom_sheet_slide_out</item>
+	</style>
+	<style name="ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework" parent="@style/Base.ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework" />
+	<style name="Base.ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+		<item name="android:buttonBarButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog.Flush</item>
+	</style>
+	<style name="Widget.MaterialComponents.Button.TextButton.Dialog.Flush" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog">
+		<item name="android:layout_marginLeft">0.0dip</item>
+		<item name="android:layout_marginStart">0.0dip</item>
+	</style>
+
+	<style name="MenuActivityTheme" parent="@style/AppTheme">
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="android:colorControlHighlight">@color/colorPrimary</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">false</item>
+	</style>
+	<style name="Theme.Design.BottomSheetDialog" parent="@style/Theme.AppCompat.Dialog">
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowAnimationStyle">@style/Animation.Design.BottomSheetDialog</item>
+		<item name="bottomSheetStyle">@style/Widget.Design.BottomSheet.Modal</item>
+	</style>
+	<style name="Widget.Design.BottomSheet.Modal" parent="@android:style/Widget">
+		<item name="android:background">?android:colorBackground</item>
+		<item name="android:elevation">16.0dip</item>
+		<item name="backgroundTint">@null</item>
+		<item name="behavior_hideable">true</item>
+		<item name="behavior_peekHeight">auto</item>
+		<item name="behavior_skipCollapsed">false</item>
+		<item name="enforceMaterialTheme">false</item>
+		<item name="shapeAppearance">@null</item>
+		<item name="shapeAppearanceOverlay">@null</item>
+	</style>
+	<style name="ShapeAppearanceOverlay.MaterialComponents.BottomSheet" parent="">
+		<item name="cornerSizeBottomLeft">0.0dip</item>
+		<item name="cornerSizeBottomRight">0.0dip</item>
+	</style>
+</resources>

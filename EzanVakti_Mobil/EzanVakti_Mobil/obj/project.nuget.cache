@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwRwKYGO84Qjy3A0dfI0oSHiuBPeLW6zy0/6nmu1zIZ/vkcGL/xxUX/IUdFzSD4qBKsjzig2gJOWZc5IFvjeTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manas\\source\\repos\\bekiryil(1)\\EzanVakti_Mobil\\EzanVakti_Mobil\\EzanVakti_Mobil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manas\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\sqlite-net\\1.6.292\\sqlite-net.1.6.292.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.0.4\\sqlitepclraw.lib.e_sqlite3.android.2.0.4.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.activity\\1.7.1.1\\xamarin.androidx.activity.1.7.1.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.annotation\\1.6.0.2\\xamarin.androidx.annotation.1.6.0.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.3.0.4\\xamarin.androidx.annotation.experimental.1.3.0.4.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.appcompat\\1.2.0.5\\xamarin.androidx.appcompat.1.2.0.5.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.appcompat.appcompatresources\\1.6.0\\xamarin.androidx.appcompat.appcompatresources.1.6.0.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.appcompat.resources\\1.1.0.2\\xamarin.androidx.appcompat.resources.1.1.0.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.arch.core.common\\2.2.0.2\\xamarin.androidx.arch.core.common.2.2.0.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.arch.core.runtime\\2.2.0.2\\xamarin.androidx.arch.core.runtime.2.2.0.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.browser\\1.3.0\\xamarin.androidx.browser.1.3.0.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.cardview\\1.0.0.20\\xamarin.androidx.cardview.1.0.0.20.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.collection\\1.2.0.8\\xamarin.androidx.collection.1.2.0.8.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.concurrent.futures\\1.1.0.13\\xamarin.androidx.concurrent.futures.1.1.0.13.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.constraintlayout\\2.1.4.3\\xamarin.androidx.constraintlayout.2.1.4.3.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.constraintlayout.core\\1.0.4.3\\xamarin.androidx.constraintlayout.core.1.0.4.3.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.coordinatorlayout\\1.2.0.6\\xamarin.androidx.coordinatorlayout.1.2.0.6.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.core\\1.10.1.1\\xamarin.androidx.core.1.10.1.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.core.core.ktx\\1.10.1.1\\xamarin.androidx.core.core.ktx.1.10.1.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.cursoradapter\\1.0.0.5\\xamarin.androidx.cursoradapter.1.0.0.5.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.customview\\1.1.0.17\\xamarin.androidx.customview.1.1.0.17.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.customview.poolingcontainer\\1.0.0.2\\xamarin.androidx.customview.poolingcontainer.1.0.0.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.documentfile\\1.0.1.18\\xamarin.androidx.documentfile.1.0.1.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.drawerlayout\\1.2.0.2\\xamarin.androidx.drawerlayout.1.2.0.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.dynamicanimation\\1.0.0.18\\xamarin.androidx.dynamicanimation.1.0.0.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.fragment\\1.5.7.1\\xamarin.androidx.fragment.1.5.7.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.interpolator\\1.0.0.18\\xamarin.androidx.interpolator.1.0.0.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.legacy.support.core.utils\\1.0.0.18\\xamarin.androidx.legacy.support.core.utils.1.0.0.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.lifecycle.common\\2.6.1.2\\xamarin.androidx.lifecycle.common.2.6.1.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.lifecycle.livedata\\2.6.1.2\\xamarin.androidx.lifecycle.livedata.2.6.1.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.lifecycle.livedata.core\\2.6.1.2\\xamarin.androidx.lifecycle.livedata.core.2.6.1.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.lifecycle.runtime\\2.6.1.2\\xamarin.androidx.lifecycle.runtime.2.6.1.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.lifecycle.viewmodel\\2.6.1.2\\xamarin.androidx.lifecycle.viewmodel.2.6.1.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.lifecycle.viewmodelsavedstate\\2.6.1.2\\xamarin.androidx.lifecycle.viewmodelsavedstate.2.6.1.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.loader\\1.1.0.18\\xamarin.androidx.loader.1.1.0.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.localbroadcastmanager\\1.1.0.6\\xamarin.androidx.localbroadcastmanager.1.1.0.6.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.migration\\1.0.10\\xamarin.androidx.migration.1.0.10.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.multidex\\2.0.1.13\\xamarin.androidx.multidex.2.0.1.13.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.print\\1.0.0.18\\xamarin.androidx.print.1.0.0.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.profileinstaller.profileinstaller\\1.3.1.1\\xamarin.androidx.profileinstaller.profileinstaller.1.3.1.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.recyclerview\\1.3.0\\xamarin.androidx.recyclerview.1.3.0.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.savedstate\\1.2.1.2\\xamarin.androidx.savedstate.1.2.1.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.startup.startupruntime\\1.1.1.6\\xamarin.androidx.startup.startupruntime.1.1.1.6.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.tracing.tracing\\1.1.0.5\\xamarin.androidx.tracing.tracing.1.1.0.5.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.transition\\1.4.1.11\\xamarin.androidx.transition.1.4.1.11.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.vectordrawable\\1.1.0.18\\xamarin.androidx.vectordrawable.1.1.0.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.vectordrawable.animated\\1.1.0.15\\xamarin.androidx.vectordrawable.animated.1.1.0.15.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.versionedparcelable\\1.1.1.18\\xamarin.androidx.versionedparcelable.1.1.1.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.18\\xamarin.androidx.viewpager.1.0.0.18.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.20\\xamarin.androidx.viewpager2.1.0.0.20.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.google.android.material\\1.9.0.1\\xamarin.google.android.material.1.9.0.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.google.errorprone.annotations\\2.18.0\\xamarin.google.errorprone.annotations.2.18.0.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.13\\xamarin.google.guava.listenablefuture.1.0.0.13.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.jetbrains.annotations\\24.0.1.2\\xamarin.jetbrains.annotations.24.0.1.2.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.kotlin.stdlib\\1.8.21.1\\xamarin.kotlin.stdlib.1.8.21.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.kotlin.stdlib.common\\1.8.21.1\\xamarin.kotlin.stdlib.common.1.8.21.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk7\\1.8.21.1\\xamarin.kotlin.stdlib.jdk7.1.8.21.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.8.21.1\\xamarin.kotlin.stdlib.jdk8.1.8.21.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.1.1\\xamarin.kotlinx.coroutines.android.1.7.1.1.nupkg.sha512",
+    "C:\\Users\\manas\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.1.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.AndroidX.AppCompat from 1.6.0.1 to 1.2.0.5. Reference the package directly from the project to select a different version. \r\n EzanVakti_Mobil -> Xamarin.AndroidX.ConstraintLayout 2.1.4.3 -> Xamarin.AndroidX.AppCompat (>= 1.6.0.1) \r\n EzanVakti_Mobil -> Xamarin.AndroidX.AppCompat (>= 1.2.0.5)",
+      "libraryId": "Xamarin.AndroidX.AppCompat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v12.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.AndroidX.AppCompat from 1.6.1.2 to 1.2.0.5. Reference the package directly from the project to select a different version. \r\n EzanVakti_Mobil -> Xamarin.Google.Android.Material 1.9.0.1 -> Xamarin.AndroidX.AppCompat (>= 1.6.1.2) \r\n EzanVakti_Mobil -> Xamarin.AndroidX.AppCompat (>= 1.2.0.5)",
+      "libraryId": "Xamarin.AndroidX.AppCompat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v12.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.AndroidX.ConstraintLayout from 2.1.4.5 to 2.1.4.3. Reference the package directly from the project to select a different version. \r\n EzanVakti_Mobil -> Xamarin.Google.Android.Material 1.9.0.1 -> Xamarin.AndroidX.ConstraintLayout (>= 2.1.4.5) \r\n EzanVakti_Mobil -> Xamarin.AndroidX.ConstraintLayout (>= 2.1.4.3)",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout",
+      "targetGraphs": [
+        "MonoAndroid,Version=v12.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.AndroidX.RecyclerView from 1.3.0.2 to 1.3.0. Reference the package directly from the project to select a different version. \r\n EzanVakti_Mobil -> Xamarin.Google.Android.Material 1.9.0.1 -> Xamarin.AndroidX.RecyclerView (>= 1.3.0.2) \r\n EzanVakti_Mobil -> Xamarin.AndroidX.RecyclerView (>= 1.3.0)",
+      "libraryId": "Xamarin.AndroidX.RecyclerView",
+      "targetGraphs": [
+        "MonoAndroid,Version=v12.0"
+      ]
+    }
+  ]
+}

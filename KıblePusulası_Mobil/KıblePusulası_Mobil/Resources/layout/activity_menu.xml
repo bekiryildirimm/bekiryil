@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout  android:id="@+id/menuClytMain" android:background="@color/clrBlackTransparent25" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/menuImgLogo" android:alpha="0.7" android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_marginTop="54.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:srcCompat="@drawable/iste_preloader_favicon" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="14.0sp" android:textColor="@color/clrMenuText" android:id="@+id/menuTvTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip"  android:textAlignment="center" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/menuImgLogo" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="8.0dip" app:layout_constraintBottom_toTopOf="@+id/menuLlytBottom" app:layout_constraintTop_toBottomOf="@+id/menuTvTitle">
+        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="24.0dip" android:paddingEnd="24.0dip">
+           
+          
+            <androidx.appcompat.widget.LinearLayoutCompat android:id="@+id/menuLlytLocationsBtn" style="@style/MenuLlytButtonStyle" android:onClick="onLocationClick">
+                <RelativeLayout android:background="@drawable/bg_menu_icon_circle" style="@style/MenuRlytIconStyle">
+                    <androidx.appcompat.widget.AppCompatImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" app:srcCompat="@drawable/ic_menu_locations" />
+                </RelativeLayout>
+                <androidx.appcompat.widget.AppCompatTextView android:text="Konumum" style="@style/MenuTvTitleStyle" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <View android:background="@color/clrMenuText" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="0.100000024dip" android:layout_marginTop="2.0dip" android:layout_marginBottom="2.0dip"   />
+           
+            <!--androidx.appcompat.widget.LinearLayoutCompat android:id="@+id/menuLlytMosquesBtn" style="@style/MenuLlytButtonStyle">
+                <RelativeLayout android:background="@drawable/bg_menu_icon_circle" style="@style/MenuRlytIconStyle">
+                    <androidx.appcompat.widget.AppCompatImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" app:srcCompat="@drawable/ic_alarm_mosque" app:tint="@android:color/white" />
+                </RelativeLayout>
+                <androidx.appcompat.widget.AppCompatTextView android:text="@string/menu_find_mosques" style="@style/MenuTvTitleStyle" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <View android:background="@color/clrMenuText" android:layout_width="fill_parent" android:layout_height="0.100000024dip" android:layout_marginTop="2.0dip" android:layout_marginBottom="2.0dip"   />
+            <androidx.appcompat.widget.LinearLayoutCompat android:id="@+id/menuLlytCompassBtn" style="@style/MenuLlytButtonStyle">
+                <RelativeLayout android:background="@drawable/bg_menu_icon_circle" style="@style/MenuRlytIconStyle">
+                    <androidx.appcompat.widget.AppCompatImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" app:srcCompat="@drawable/ic_kaaba" />
+                </RelativeLayout>
+                <androidx.appcompat.widget.AppCompatTextView android:text="@string/menu_compass" style="@style/MenuTvTitleStyle" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <View android:background="@color/clrMenuText" android:layout_width="fill_parent" android:layout_height="0.100000024dip" android:layout_marginTop="2.0dip" android:layout_marginBottom="2.0dip"   /-->
+            <androidx.appcompat.widget.LinearLayoutCompat android:visibility="visible" android:onClick="diniGunClick" android:id="@+id/menuLlytReligiousDaysBtn" style="@style/MenuLlytButtonStyle">
+                <RelativeLayout android:background="@drawable/bg_menu_icon_circle" style="@style/MenuRlytIconStyle">
+                    <androidx.appcompat.widget.AppCompatImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" app:srcCompat="@drawable/ic_calendar" />
+                </RelativeLayout>
+                <androidx.appcompat.widget.AppCompatTextView android:text="Dini Günler ve Geceler" style="@style/MenuTvTitleStyle" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+            <View android:background="@color/clrMenuText" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.100000024dip" android:layout_marginTop="2.0dip" android:layout_marginBottom="2.0dip"   />
+           
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </ScrollView>
+    
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/menuLlytBottom" android:background="@drawable/bg_menu_bottom" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="80.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" app:layout_constraintBottom_toBottomOf="parent">
+
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="12.0sp" android:textColor="@color/clrMenuText" android:id="@+id/menuTvVersion" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <RelativeLayout   android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <RelativeLayout android:id="@+id/menuRlytCloseBtn" android:background="@drawable/bg_menu_circle_transparent" android:layout_marginTop="16.0dip" android:onClick="onMenuClick" android:contentDescription="Geri Dön" style="@style/MenuButtonRlytStyle">
+            <androidx.appcompat.widget.AppCompatImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="Geri Dön" app:srcCompat="@drawable/ic_my_close" app:tint="@android:color/white" style="@style/MenuButtonImageStyle" />
+        </RelativeLayout>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
