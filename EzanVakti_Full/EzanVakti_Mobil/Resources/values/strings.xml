@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ezan Vakti Mobil</string>
+    <string name="action_settings">Settings</string>
+	<string name="ADD">EKLE</string>
+	<string name="ASR">İKİNDİ</string>
+	<string name="ATTENTION">DİKKAT</string>
+	<string name="CANCEL">İPTAL</string>
+	<string name="CHANGE">DEĞİŞTİR</string>
+	<string name="CHOOSE_FROM_LIST">LİSTEDEN ARA</string>
+	<string name="CLOSE">KAPAT</string>
+	<string name="Choose_from_list">Listeden ara</string>
+	<string name="Choose_from_map">Haritadan bul</string>
+	<string name="DHUHR">ÖĞLE</string>
+	<string name="DO_NOT_SHOW_AGAIN">TEKRAR GÖSTERME</string>
+	<string name="FAJR">İMSAK</string>
+	<string name="GIVE_PERMISSION">İZİN VER</string>
+	<string name="ISHA">YATSI</string>
+	<string name="MAGHRIB">AKŞAM</string>
+	<string name="NEXT">İLERİ</string>
+	<string name="NO">HAYIR</string>
+	<string name="OK">TAMAM</string>
+	<string name="OPEN_GPS">KONUM AÇ</string>
+	<string name="OPEN_SETTINGS">AYARLARI AÇ</string>
+	<string name="SAVE">KAYDET</string>
+	<string name="SEARCH">ARA</string>
+	<string name="SELECT">SEÇ</string>
+	<string name="SUN">GÜNEŞ</string>
+	<string name="WARNING">UYARI</string>
+	<string name="YES">EVET</string>
+</resources>

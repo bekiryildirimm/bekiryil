@@ -1,0 +1,1 @@
+<layoutAnimation android:delay="14.999998%" android:animation="@anim/item_animation_slide_from_bottom" android:animationOrder="normal" xmlns:android="http://schemas.android.com/apk/res/android" />

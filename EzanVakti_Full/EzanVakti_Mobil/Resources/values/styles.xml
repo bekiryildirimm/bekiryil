@@ -1,0 +1,263 @@
+<resources>
+
+	<!-- Base application theme. -->
+	<style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+		<!-- Customize your theme here. -->
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+	<style name="PrayerTimeIconStyle" parent="@style/AppTheme">
+		<item name="android:layout_width">48.0dip</item>
+		<item name="android:layout_height">48.0dip</item>
+		<item name="android:scaleType">center</item>
+		<item name="android:adjustViewBounds">true</item>
+	</style>
+	<style name="PrayerTimeTitleStyle" parent="@style/AppTheme">
+		<item name="android:textSize">17.0dip</item>
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:ellipsize">end</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:lines">1</item>
+		<item name="android:textAlignment">center</item>
+	</style>
+	<style name="PrayerTimeStyle" parent="@style/AppTheme">
+		<item name="android:textSize">17.0dip</item>
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textAlignment">center</item>
+	</style>
+	<style name="PrayerTimeClytStyle" parent="@style/AppTheme">
+		<item name="android:gravity">center</item>
+		<item name="android:layout_gravity">center</item>
+		<item name="android:orientation">vertical</item>
+		<item name="android:background">@drawable/bg_background_prayer</item>
+		<item name="android:focusable">true</item>
+		<item name="android:clickable">true</item>
+		<item name="android:layout_width">0.0dip</item>
+		<item name="android:layout_height">fill_parent</item>
+		<item name="android:layout_margin">1.5dip</item>
+		<item name="android:layout_weight">1.0</item>
+		<!--item name="android:onClick">onLocationFragmentPrayerTimeClick</item-->
+	</style>
+	<style name="AppTheme.CustomTheme" parent="Theme.AppCompat.NoActionBar">
+		<item name="android:background">@android:color/transparent</item>
+		<!--on below line we are displaying the windowNotitle as true as we are not displaying our status bar-->
+		<item name="android:windowNoTitle">true</item>
+		<!--on below line we are setting our window background as transparent color-->
+		<item name="android:windowBackground">@color/saydam</item>
+		<!--on below line we are setting color background cache hint as null-->
+		<item name="android:colorBackgroundCacheHint">@null</item>
+		<!--on below line we are adding a window translucent as true-->
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="colorPrimaryDark">#00000000</item>
+		<!--on below line we are adding a window animationstyle-->
+		<item name="android:windowAnimationStyle">@android:style/Animation</item>
+	</style>
+	<style name="AppTheme.CustomTheme2" parent="Theme.AppCompat.NoActionBar">
+		<item name="android:windowBackground">
+			@color/clrBlackTransparent25
+		</item>
+
+	</style>
+	<style name="SplashScreen" parent="@style/AppTheme">
+		<item name="android:windowBackground">@drawable/splash_screen</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">false</item>
+	</style>
+	<style name="MenuButtonImageStyle" parent="@style/AppTheme">
+		<item name="android:background">?selectableItemBackgroundBorderless</item>
+		<item name="android:scaleType">center</item>
+	</style>
+	<style name="MenuButtonRlytStyle" parent="@style/AppTheme">
+		<item name="android:layout_gravity">end|center|top</item>
+		<item name="android:layout_width">48.0dip</item>
+		<item name="android:layout_height">48.0dip</item>
+		<item name="android:layout_marginTop">16.0dip</item>
+		<item name="android:layout_marginStart">16.0dip</item>
+		<item name="android:layout_marginEnd">16.0dip</item>
+	</style>
+	<style name="MenuLlytButtonStyle" parent="@style/AppTheme">
+		<item name="android:gravity">center_vertical</item>
+		<item name="android:orientation">horizontal</item>
+		<item name="android:background">?selectableItemBackground</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">56.0dip</item>
+		<item name="android:onClick">onMenuClick</item>
+		<item name="android:paddingStart">16.0dip</item>
+		<item name="android:paddingEnd">16.0dip</item>
+	</style>
+	<style name="MenuTvTitleStyle" parent="@style/AppTheme">
+		<item name="android:textSize">14.0dip</item>
+		<item name="android:textColor">@color/clrMenuText</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_marginStart">16.0dip</item>
+	</style>
+	<style name="MenuRlytIconStyle" parent="@style/AppTheme">
+		<item name="android:padding">8.0dip</item>
+		<item name="android:layout_width">40.0dip</item>
+		<item name="android:layout_height">40.0dip</item>
+	</style>
+	<style name="Animation.Design.BottomSheetDialog" parent="@style/Animation.AppCompat.Dialog">
+		<item name="android:windowEnterAnimation">@anim/design_bottom_sheet_slide_in</item>
+		<item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
+	</style>
+	<style name="BottomSheetFragmentStyle" parent="@style/Theme.MaterialComponents.Light.BottomSheetDialog">
+		<item name="android:backgroundDimAmount">0.3</item>
+		<item name="behavior_peekHeight">500.0dip</item>
+		<item name="bottomSheetStyle">@style/BottomSheetWhiteBg</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	</style>
+	<style name="BottomSheetWhiteBg" parent="@style/Theme.MaterialComponents.Light.BottomSheetDialog">
+		<item name="android:background">@drawable/bg_bottomsheet_white</item>
+	</style>
+	<style name="BottomSheetWhiteBg2" parent="@style/Theme.MaterialComponents.Light.BottomSheetDialog">
+		<item name="android:background">@drawable/circle</item>
+	</style>
+	<style name="Theme.MaterialComponents.Light.Dialog" parent="@style/Base.Theme.MaterialComponents.Light.Dialog" />
+	<style name="Base.Theme.MaterialComponents.Light.Dialog" parent="@style/Base.V21.Theme.MaterialComponents.Light.Dialog" />
+	<style name="Base.V21.Theme.MaterialComponents.Light.Dialog" parent="@style/Base.V14.Theme.MaterialComponents.Light.Dialog">
+		<item name="android:alertDialogTheme">@style/ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework</item>
+	</style>
+	<style name="Theme.MaterialComponents.Light.BottomSheetDialog" parent="@style/Theme.MaterialComponents.Light.Dialog">
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowAnimationStyle">@style/Animation.MaterialComponents.BottomSheetDialog</item>
+		<item name="bottomSheetStyle">@style/Widget.MaterialComponents.BottomSheet.Modal</item>
+	</style>
+	<style name="Animation.MaterialComponents.BottomSheetDialog" parent="@style/Animation.AppCompat.Dialog">
+		<item name="android:windowEnterAnimation">@anim/mtrl_bottom_sheet_slide_in</item>
+		<item name="android:windowExitAnimation">@anim/mtrl_bottom_sheet_slide_out</item>
+	</style>
+	<style name="ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework" parent="@style/Base.ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework" />
+	<style name="Base.ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+		<item name="android:buttonBarButtonStyle">@style/Widget.MaterialComponents.Button.TextButton.Dialog.Flush</item>
+	</style>
+	<style name="Widget.MaterialComponents.Button.TextButton.Dialog.Flush" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog">
+		<item name="android:layout_marginLeft">0.0dip</item>
+		<item name="android:layout_marginStart">0.0dip</item>
+	</style>
+
+	<style name="MenuActivityTheme" parent="@style/AppTheme">
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="android:colorControlHighlight">@color/colorPrimary</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">false</item>
+	</style>
+	<style name="Theme.Design.BottomSheetDialog" parent="@style/Theme.AppCompat.Dialog">
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowAnimationStyle">@style/Animation.Design.BottomSheetDialog</item>
+		<item name="bottomSheetStyle">@style/Widget.Design.BottomSheet.Modal</item>
+	</style>
+	<style name="Widget.Design.BottomSheet.Modal" parent="@android:style/Widget">
+		<item name="android:background">?android:colorBackground</item>
+		<item name="android:elevation">16.0dip</item>
+		<item name="backgroundTint">@null</item>
+		<item name="behavior_hideable">true</item>
+		<item name="behavior_peekHeight">auto</item>
+		<item name="behavior_skipCollapsed">false</item>
+		<item name="enforceMaterialTheme">false</item>
+		<item name="shapeAppearance">@null</item>
+		<item name="shapeAppearanceOverlay">@null</item>
+	</style>
+	<style name="ShapeAppearanceOverlay.MaterialComponents.BottomSheet" parent="">
+		<item name="cornerSizeBottomLeft">0.0dip</item>
+		<item name="cornerSizeBottomRight">0.0dip</item>
+	</style>
+	<style name="SelectSoundBtn" parent="@style/AppTheme">
+		<item name="android:textSize">14.0sp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@color/colorPrimary</item>
+		<item name="android:gravity">center</item>
+		<item name="android:background">?selectableItemBackground</item>
+		<item name="android:layout_width">117.0dip</item>
+		<item name="android:layout_height">0.0dip</item>
+		<item name="android:text">Değiştir</item>
+		<item name="android:paddingStart">16.0dip</item>
+		<item name="android:paddingEnd">16.0dip</item>
+	</style>
+	<style name="ButtonTheme" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
+		<item name="android:padding">0.0dip</item>
+		<item name="android:layout_width">40.0dip</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="backgroundTint">@color/set_alarm_bg_selector</item>
+		<item name="iconGravity">textStart</item>
+		<item name="iconPadding">0.0dip</item>
+		<item name="iconTint">@color/set_alarm_icon_selector</item>
+		<item name="rippleColor">@color/clrPrimaryTransparent25</item>
+		<item name="strokeColor">@color/colorPrimary</item>
+		<item name="strokeWidth">1.0dip</item>
+	</style>
+	<style name="SelectedSoundStr" parent="@style/AppTheme">
+		<item name="android:textSize">14.0sp</item>
+		<item name="android:textColor">@color/clrStandartText</item>
+		<item name="android:ellipsize">end</item>
+		<item name="android:gravity">start|center</item>
+		<item name="android:layout_width">0.0dip</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:maxLines">2</item>
+		<item name="android:lines">2</item>
+		<item name="android:textAlignment">textStart</item>
+	</style>
+
+	<style name="TimeSoundConstraintStyle" parent="@style/AppTheme">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+	</style>
+	<style name="CheckBoxStyle" parent="@style/AppTheme">
+		<item name="android:textColorSecondary">@color/colorPrimary</item>
+		<item name="colorControlActivated">@color/colorPrimary</item>
+		<item name="colorControlHighlight">@color/colorPrimary</item>
+		<item name="colorControlNormal">@color/colorPrimary</item>
+	</style>
+	<style name="PlayButtonStyle" parent="@style/AppTheme">
+		<item name="android:background">?selectableItemBackgroundBorderless</item>
+		<item name="android:padding">10.0dip</item>
+		<item name="android:layout_width">40.0dip</item>
+		<item name="android:layout_height">40.0dip</item>
+		<item name="android:scaleType">fitXY</item>
+	</style>
+	<style name="TabLayoutStyle" parent="@style/Widget.MaterialComponents.TabLayout">
+		<item name="tabGravity">fill</item>
+		<item name="tabIndicatorHeight">0.0dip</item>
+		<item name="tabMode">fixed</item>
+		<item name="tabPaddingEnd">4.0dip</item>
+		<item name="tabPaddingStart">4.0dip</item>
+		<item name="tabRippleColor">@color/colorPrimary</item>
+	</style>
+	<style name="SwitchStyle" parent="@style/AppTheme">
+		<item name="colorControlActivated">@color/colorPrimary</item>
+		<item name="colorControlHighlight">@color/colorPrimary</item>
+		<item name="colorSwitchThumbNormal">@color/colorPrimary</item>
+	</style>
+	<style name="CustomAlertDialogLineStyle">
+		<item name="android:background">@color/clrStandartText</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">0.5dip</item>
+		<item name="android:alpha">0.5</item>
+	</style>
+	<style name="OutlinedButtonStyle" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
+		<item name="android:padding">0.0dip</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="backgroundTint">@color/set_alarm_bg_selector</item>
+		<item name="iconGravity">textStart</item>
+		<item name="iconPadding">0.0dip</item>
+		<item name="iconTint">@color/set_alarm_icon_selector</item>
+		<item name="rippleColor">@color/clrPrimaryTransparent25</item>
+		<item name="strokeColor">@color/colorPrimary</item>
+		<item name="strokeWidth">1.0dip</item>
+	</style>
+	
+	
+	
+</resources>

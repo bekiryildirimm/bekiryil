@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/compassImgBg" android:src="@drawable/compass_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+      
+    <androidx.appcompat.widget.AppCompatImageView  android:id="@+id/compassImgKaaba" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:src="@drawable/compass_kabe" />
+    
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/compassRlytCompassTop" android:src="@drawable/compass_bg_top" android:layout_width="300.0dip" android:layout_height="300.0dip" android:layout_marginBottom="24.0dip" app:layout_constraintBottom_toTopOf="@+id/compassTvDegree" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/compassRlytCompassBottom" android:src="@drawable/compass_bg_bottom" android:layout_width="300.0dip" android:layout_height="300.0dip" app:layout_constraintBottom_toBottomOf="@+id/compassRlytCompassTop" app:layout_constraintEnd_toEndOf="@+id/compassRlytCompassTop" app:layout_constraintStart_toStartOf="@+id/compassRlytCompassTop" app:layout_constraintTop_toTopOf="@+id/compassRlytCompassTop" />
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/compassRlytCompassArrow" android:src="@drawable/compass_arrow" android:layout_width="300.0dip" android:layout_height="300.0dip" app:layout_constraintBottom_toBottomOf="@+id/compassRlytCompassTop" app:layout_constraintEnd_toEndOf="@+id/compassRlytCompassTop" app:layout_constraintStart_toStartOf="@+id/compassRlytCompassTop" app:layout_constraintTop_toTopOf="@+id/compassRlytCompassTop" />
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="24.0sp" android:textStyle="bold" android:textColor="@android:color/black" android:id="@+id/compassTvDegree" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center" android:visibility="visible" android:orientation="vertical" android:id="@+id/compassLlytLoading" android:background="@color/clrBlackTransparent75" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:indeterminateTint="@color/colorPrimary" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16.0sp" android:textColor="@color/clrPrayerTimeIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Konumunuz belirleniyor." android:textAlignment="center" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.constraintlayout.widget.ConstraintLayout>
